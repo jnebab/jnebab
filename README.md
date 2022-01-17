@@ -1,10 +1,11 @@
 ![github_banner](https://user-images.githubusercontent.com/6265768/146669807-65008472-9b4e-4c11-b6b3-5083938216ec.png)
 
-I'm a 31-year-old front-end developer based from Cabanatuan City. I just relocated here recently. I am currently working with KeepWell TeleHealth Inc. as their IT Technical Maintenance Developer. I am also thinking of going online-freelancing soon. If you want to collaborate and/or get me a short gig. You can check me in [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018ce28e8b31163cf4).
+I'm a front-end developer based from Cabanatuan City. I am currently working with KeepWell TeleHealth Inc. as their IT Technical Maintenance Developer. At times, I accept short projects thru online freelancing. You can check me in [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018ce28e8b31163cf4).
 
-* 🔭 I’m currently studying how to develop DAPPs with React
-* 🌱 I'm very fascinated with TailwindCSS and NextJS.
-* 👯 I want to expand my skills to UI/UX
+This year, outside from my usual work routine. I will mostly spend my time learning
+* 🔭 Blockchain, specifically learning how smart contracts works and how to develop it with Solidity.
+* 🌱 I might also explore on Web Assembly with Rust.
+* 👯 Playing some NFT games might also be a thing for me to continue this year, and;
 * 🤔 I want to learn more about front-end architecture and design concepts
 
 ### My Socials
