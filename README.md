@@ -6,7 +6,13 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 * 🔭 Blockchain, specifically learning how smart contracts works and how to develop it with Solidity.
 * 🌱 I might also explore on Web Assembly with Rust.
 * 👯 Playing some NFT games might also be a thing for me to continue this year, and;
-* 🤔 I want to learn more about front-end architecture and design concepts
+* 🤔 I want to learn more about front-end architecture and system designs
+
+Current progress...
+* 🔭 Still on web3 stuffs, on a side-project at the moment, doing work mostly on smart contract integration. 
+* Also doing buildspace.so tutorials at times.
+* Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
+* Planning to make my own web portfolio soon.
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nh0jjjjj/)
