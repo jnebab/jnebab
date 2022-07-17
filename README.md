@@ -10,9 +10,8 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 
 Current progress...
 * 🔭 Still on web3 stuffs, on a side-project at the moment, doing work mostly on smart contract integration. 
-* Also doing buildspace.so tutorials at times.
-* Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
-* Planning to make my own web portfolio soon.
+* 🌱 Also doing buildspace.so tutorials at times.
+* 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nh0jjjjj/)
