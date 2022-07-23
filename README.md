@@ -1,5 +1,3 @@
-![github_banner](https://user-images.githubusercontent.com/6265768/146669807-65008472-9b4e-4c11-b6b3-5083938216ec.png)
-
 I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. At times, I accept short projects thru online freelancing. You can check me in [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018ce28e8b31163cf4).
 
 This year, outside from my usual work routine. I will mostly spend my time learning
