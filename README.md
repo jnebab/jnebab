@@ -9,6 +9,7 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 Current progress...
 * 🔭 Still on web3 stuff, currently doing front-end integration for rosepad.io. 
 * 🌱 Also doing buildspace.so tutorials at times.
+* 📦 Finally became an OSS contributor with Web3 PH directory project.
 * 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
 
 ### My Socials
