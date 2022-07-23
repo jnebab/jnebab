@@ -7,7 +7,7 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 * 🤔 I want to learn more about front-end architecture and system designs
 
 Current progress...
-* 🔭 Still on web3 stuffs, on a side-project at the moment, doing work mostly on smart contract integration. 
+* 🔭 Still on web3 stuff, currently doing front-end integration for rosepad.io. 
 * 🌱 Also doing buildspace.so tutorials at times.
 * 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
 
