@@ -1,5 +1,4 @@
-I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. At times, I accept short projects thru online freelancing. You can check me in [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018ce28e8b31163cf4).
-
+I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. 
 This year, outside from my usual work routine. I will mostly spend my time learning
 * 🔭 Blockchain, specifically learning how smart contracts works and how to develop it with Solidity.
 * 🌱 I might also explore on Web Assembly with Rust.
