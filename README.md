@@ -9,7 +9,7 @@ Current progress...
 * 🔭 Still on web3 stuff, doing some freelance projects from time to time. 
 * 🌱 Also doing buildspace.so tutorials when time permits.
 * 📦 Finally became an OSS contributor.
-* 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Great stuffs for real!
+* 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Good stuff!
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
