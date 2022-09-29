@@ -9,8 +9,8 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 
 Current progress...
 * 🔭 Still on web3 stuff, doing some freelance projects from time to time. 
-* 🌱 Also doing buildspace.so tutorials when time permits.
-* 📦 Finally became an OSS contributor.
+* 🌱 Doing part time in Front End for RoseHub.io - an Oasis-based Dex.
+* 📦 OSS contributor in thirdweb JS SDK.
 * 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Good stuff!
 
 ### My Socials
