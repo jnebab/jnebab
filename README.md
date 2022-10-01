@@ -3,15 +3,14 @@
 I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. 
 This year, outside from my usual work routine. I will mostly spend my time learning
 * 🔭 Blockchain, specifically learning how smart contracts works and how to develop it with Solidity.
-* 🌱 I might also explore on Web Assembly with Rust.
-* 👯 Playing some NFT games might also be a thing for me to continue this year, and;
+* 🌱 I might also explore on Web Assembly with Rust, and;
 * 🤔 I want to learn more about front-end architecture and system designs
 
 Current progress...
-* 🔭 Still on web3 stuff, doing some freelance projects from time to time. 
-* 🌱 Doing part time in Front End for RoseHub.io - an Oasis-based Dex.
-* 📦 OSS contributor in thirdweb JS SDK.
-* 👯 Found this community by a dev-turned-youtuber. Tech discussions mostly on react/next arch and system designs. Good stuff!
+* 🌱 Part time Front End Dev in RoseHub.io - an Oasis-based Dex.
+* 📦 Contributor in ThirdWeb - SDK.
+* 📦 Contributor in Web3 PHL Directory.
+* 👯 Lurking into web3 tech communities!
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
