@@ -10,7 +10,7 @@ Current progress...
 * 🌱 Part time Front End Dev in RoseHub.io - an Oasis-based Dex.
 * 📦 Contributor in ThirdWeb - SDK.
 * 📦 Contributor in Web3 PHL Directory.
-* 👯 Lurking into web3 tech communities!
+* 👯 Lurking into web3/react tech communities!
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
