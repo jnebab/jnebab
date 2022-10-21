@@ -7,7 +7,6 @@ This year, outside from my usual work routine. I will mostly spend my time learn
 * 🤔 I want to learn more about front-end architecture and system designs
 
 Current progress...
-* 🌱 Part time Front End Dev in RoseHub.io - an Oasis-based Dex.
 * 📦 Contributor in ThirdWeb - SDK.
 * 📦 Contributor in Web3 PHL Directory.
 * 👯 Lurking into web3/react tech communities!
