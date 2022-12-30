@@ -1,15 +1,16 @@
-[![@jnebab's Holopin board](https://holopin.io/api/user/board?user=jnebab)](https://holopin.io/@jnebab)
-
 I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. 
-This year, outside from my usual work routine. I will mostly spend my time learning
-* 🔭 Blockchain, specifically learning how smart contracts works and how to develop it with Solidity.
-* 🌱 I might also explore on Web Assembly with Rust, and;
-* 🤔 I want to learn more about front-end architecture and system designs
+This year, outside from my usual work routine. I will spent learning on...
+* 🔭 Web3 Front-end dev using wagmi, rainbowkitui, etherjs, web3js, moralis and Pinata APIs;
+* 🌱 Finish basic course on Rust; got better in using TypeScript with React development;
+* 🤔 Learned about TRPC, ct3a by theo.gg and his community.
+* 🌱 Also did some progress learning about AWS
 
-Current progress...
-* 📦 Contributor in ThirdWeb - SDK.
-* 📦 Contributor in Web3 PHL Directory.
-* 👯 Lurking into web3/react tech communities!
+in 2023... I want to learn...
+* 📦 more about TRPC and Rust.
+* 📦 Improve my skills in CSS animations.
+* 📦 Maybe try UnoCSS/SolidJS/Remix on a project or just learn out of curiousity
+* 🌱 Expand my knowledge in AWS and go to full stack development
+
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
