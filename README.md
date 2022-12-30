@@ -1,5 +1,5 @@
 I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. 
-This year, outside from my usual work routine. I will spent learning on...
+This year, outside from my usual work routine. I spent learning on...
 * 🔭 Web3 Front-end dev using wagmi, rainbowkitui, etherjs, web3js, moralis and Pinata APIs;
 * 🌱 Finish basic course on Rust; got better in using TypeScript with React development;
 * 🤔 Learned about TRPC, ct3a by theo.gg and his community.
