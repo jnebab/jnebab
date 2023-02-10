@@ -11,6 +11,8 @@ in 2023... I want to learn...
 * 📦 Maybe try UnoCSS/SolidJS/Remix on a project or just learn out of curiousity
 * 🌱 Expand my knowledge in AWS and go to full stack development
 
+Important Note: I am bad at algo exams. I will fail badly. And sorry I am lazy to take algo courses. I prefer to take mini-projects instead :)
+
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
