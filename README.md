@@ -13,6 +13,8 @@ This year, outside from my usual work routine. I will be leaning to learn on...
 More about me: 
 I am bad at algo exams. I always fail. I prefer to take mini-projects instead.
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jnebab&style=flat-square&color=blue" alt=""></p>
+
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnebab/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivannebab/)
