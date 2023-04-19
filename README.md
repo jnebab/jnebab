@@ -1,17 +1,17 @@
-I'm a front-end developer based from Cabanatuan City. I am currently working at CoDev Philippines. 
-This year, outside from my usual work routine. I spent learning on...
-* 🔭 Web3 Front-end dev using wagmi, rainbowkitui, etherjs, web3js, moralis and Pinata APIs;
-* 🌱 Finish basic course on Rust; got better in using TypeScript with React development;
-* 🤔 Learned about TRPC, ct3a by theo.gg and his community.
-* 🌱 Also did some progress learning about AWS
+I'm a front-end engineer based from Cabanatuan City. I am currently working at Advice Revolution - an Australian-based company. 
 
-in 2023... I want to learn...
-* 📦 more about TRPC and Rust.
-* 📦 Improve my skills in CSS animations.
-* 📦 Maybe try UnoCSS/SolidJS/Remix on a project or just learn out of curiousity
-* 🌱 Expand my knowledge in AWS and go to full stack development
+This year, outside from my usual work routine. I will be leaning to learn on...
+* 🔭 Doing AI-based web applications with Open API, Langchain and Pinecone;
+* 🌱 Trying to finish an algo course from FrontEnd Masters;
+* 🤔 Exploring AWS architecture and doing deployments, and;
 
-Important Note: I am bad at algo exams. I will fail badly. And sorry I am lazy to take algo courses. I prefer to take mini-projects instead :)
+...aside from the ones mentioned above, I might also try...
+* 📦 going in-depth with Rust.
+* 📦 Do SolidJS/Svelte/Astro project
+* 📦 Use PlanetScale in a full-stack project
+
+More about me: 
+I am bad at algo exams. I always fail. I prefer to take mini-projects instead.
 
 
 ### My Socials
