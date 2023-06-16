@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jnebab&style=flat-square&color=blue" alt=""></p>
 
-I'm a front-end engineer based from Cabanatuan City. I am currently working at Advice Revolution - an Australian-based company. 
+I'm a front-end engineer based from Cabanatuan City. 
 
 This year, outside from my usual work routine. I will be leaning to learn on...
 * 🔭 Doing AI-based web applications with Open API, Langchain and Pinecone;
