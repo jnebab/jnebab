@@ -3,14 +3,14 @@
 I'm a front-end engineer based from Cabanatuan City. 
 
 This year, outside from my usual work routine. I will be leaning to learn on...
-* 🔭 Doing AI-based web applications with Open API, Langchain and Pinecone;
-* 🌱 Trying to finish an algo course from FrontEnd Masters;
-* 🤔 Exploring AWS architecture and doing deployments, and;
+* 🔭 Finishing Front End Master Javascript Mastery Path;
+* 🌱 Exploring HTMX with GoLang Fiber and Django;
+* 🤔 Doing a POC for a delivery tracking app to help on a local delivery service using Mapbox;
 
 ...aside from the ones mentioned above, I might also try...
-* 📦 going in-depth with Rust.
-* 📦 Do SolidJS/Svelte/Astro project
-* 📦 Use PlanetScale in a full-stack project
+* 📦 going in-depth with neetcode.
+* 📦 Learn Svelte
+* 📦 Come up with a full-stack app
 
 More about me: 
 I am bad at algo exams. I always fail. I prefer to take mini-projects instead.
